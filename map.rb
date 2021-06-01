@@ -24,3 +24,12 @@ class Map
 
 
 end
+
+# example code for [] and []=method
+# def [](x, y, z)
+#     @data[x][y][z]
+#   end
+
+#   def []=(x, y, z, value)
+#     @data[x][y][z] = value
+#   end
