@@ -9,6 +9,7 @@ class Stack
     def push(el)
       # adds an element to the stack
         @stack.push(el)
+        el
     end
 
     def pop
